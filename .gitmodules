@@ -1,0 +1,3 @@
+[submodule "resources/latex-handcalcs"]
+	path = resources/latex-handcalcs
+	url = https://github.com/connorferster/handcalcs.git
