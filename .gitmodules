@@ -1,3 +1,9 @@
 [submodule "resources/latex-handcalcs"]
 	path = resources/latex-handcalcs
 	url = https://github.com/connorferster/handcalcs.git
+[submodule "resources/intellij-bazel"]
+	path = resources/intellij-bazel
+	url = https://github.com/bazelbuild/intellij.git
+[submodule "resources/docker-jupyterhub"]
+	path = resources/docker-jupyterhub
+	url = https://github.com/RattyDAVE/docker-jupyterhub.git
