@@ -7,3 +7,6 @@
 [submodule "resources/docker-jupyterhub"]
 	path = resources/docker-jupyterhub
 	url = https://github.com/RattyDAVE/docker-jupyterhub.git
+[submodule "resources/bazel/bazel"]
+	path = resources/bazel/bazel
+	url = https://github.com/bazelbuild/bazel.git
