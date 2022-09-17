@@ -10,3 +10,12 @@
 [submodule "resources/bazel/bazel"]
 	path = resources/bazel/bazel
 	url = https://github.com/bazelbuild/bazel.git
+[submodule "resources/justWrite"]
+	path = resources/justWrite
+	url = https://github.com/onblog/JustWrite.git
+[submodule "resources/baidupcs-go"]
+	path = resources/baidupcs-go
+	url = https://github.com/qjfoidnh/BaiduPCS-Go.git
+[submodule "resources/cmake-cookbook"]
+	path = resources/cmake-cookbook
+	url = https://github.com/dev-cafe/cmake-cookbook.git
