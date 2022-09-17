@@ -19,3 +19,6 @@
 [submodule "resources/cmake-cookbook"]
 	path = resources/cmake-cookbook
 	url = https://github.com/dev-cafe/cmake-cookbook.git
+[submodule "resources/meson"]
+	path = resources/meson
+	url = https://github.com/mesonbuild/meson.git
