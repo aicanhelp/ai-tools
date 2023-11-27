@@ -22,3 +22,15 @@
 [submodule "resources/meson"]
 	path = resources/meson
 	url = https://github.com/mesonbuild/meson.git
+[submodule "resources/googlehosts"]
+	path = resources/googlehosts
+	url = https://github.com/googlehosts/hosts.git
+[submodule "resources/vscode-meson"]
+	path = resources/vscode-meson
+	url = https://github.com/mesonbuild/vscode-meson.git
+[submodule "resources/aliendao"]
+	path = resources/aliendao
+	url = https://github.com/git-cloner/aliendao
+[submodule "resources/antlr4"]
+	path = resources/antlr4
+	url = https://github.com/antlr/antlr4.git
