@@ -34,3 +34,9 @@
 [submodule "resources/antlr4"]
 	path = resources/antlr4
 	url = https://github.com/antlr/antlr4.git
+[submodule "resources/vagrant-k8s"]
+	path = resources/vagrant-k8s
+	url = https://github.com/techiescamp/vagrant-kubeadm-kubernetes.git
+[submodule "resources/onlyoffice/documentserver"]
+	path = resources/onlyoffice/documentserver
+	url = https://github.com/ONLYOFFICE/Docker-DocumentServer.git
