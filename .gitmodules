@@ -40,3 +40,21 @@
 [submodule "resources/onlyoffice/documentserver"]
 	path = resources/onlyoffice/documentserver
 	url = https://github.com/ONLYOFFICE/Docker-DocumentServer.git
+[submodule "resources/mkdocs/mkdocs"]
+	path = resources/mkdocs/mkdocs
+	url = https://github.com/mkdocs/mkdocs.git
+[submodule "resources/mkdocs/mkdocs-plugins"]
+	path = resources/mkdocs/mkdocs-plugins
+	url = https://github.com/Neoteroi/mkdocs-plugins.git
+[submodule "resources/mkdocs/mkdocs-material"]
+	path = resources/mkdocs/mkdocs-material
+	url = https://github.com/squidfunk/mkdocs-material.git
+[submodule "resources/mkdocs/mkdocs-strings"]
+	path = resources/mkdocs/mkdocs-strings
+	url = https://github.com/mkdocstrings/mkdocstrings.git
+[submodule "resources/mkdocs/mkdocs-include-plugin"]
+	path = resources/mkdocs/mkdocs-include-plugin
+	url = https://github.com/mondeja/mkdocs-include-markdown-plugin.git
+[submodule "resources/mkdocs/mkdocs-monorepo-plugin"]
+	path = resources/mkdocs/mkdocs-monorepo-plugin
+	url = https://github.com/backstage/mkdocs-monorepo-plugin.git
