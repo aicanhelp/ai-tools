@@ -58,3 +58,9 @@
 [submodule "resources/mkdocs/mkdocs-monorepo-plugin"]
 	path = resources/mkdocs/mkdocs-monorepo-plugin
 	url = https://github.com/backstage/mkdocs-monorepo-plugin.git
+[submodule "resources/docker-slim-examples"]
+	path = resources/docker-slim-examples
+	url = https://github.com/slimtoolkit/examples.git
+[submodule "resources/mkdocs-swagger-example"]
+	path = resources/mkdocs-swagger-example
+	url = https://github.com/scarf-sh/docs.git
