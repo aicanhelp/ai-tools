@@ -64,3 +64,36 @@
 [submodule "resources/mkdocs-swagger-example"]
 	path = resources/mkdocs-swagger-example
 	url = https://github.com/scarf-sh/docs.git
+[submodule "resources/mdx-editor-in-next-pages"]
+	path = resources/mdx-editor-in-next-pages
+	url = https://github.com/mdx-editor/mdx-editor-in-next-pages.git
+[submodule "resources/wiki-example"]
+	path = resources/wiki-example
+	url = https://github.com/mdx-editor/wiki-example.git
+[submodule "resources/docusaurus-openapi-docs"]
+	path = resources/docusaurus-openapi-docs
+	url = https://github.com/PaloAltoNetworks/docusaurus-openapi-docs.git
+[submodule "resources/affine"]
+	path = resources/affine
+	url = https://github.com/toeverything/AFFiNE.git
+[submodule "resources/redocusaurus"]
+	path = resources/redocusaurus
+	url = https://github.com/rohit-gohri/redocusaurus.git
+[submodule "resources/kubernetes-vagrant-centos-cluster"]
+	path = resources/kubernetes-vagrant-centos-cluster
+	url = https://github.com/zhaozhiwei1992/kubernetes-vagrant-centos-cluster.git
+[submodule "resources/kubespray-ansible-rhel"]
+	path = resources/kubespray-ansible-rhel
+	url = https://github.com/odennav/kubespray-ansible-rhel.git
+[submodule "resources/kubespray-offline"]
+	path = resources/kubespray-offline
+	url = https://github.com/kubespray-offline/kubespray-offline.git
+[submodule "resources/prometheus-benchmark"]
+	path = resources/prometheus-benchmark
+	url = https://github.com/VictoriaMetrics/prometheus-benchmark.git
+[submodule "resources/opentelemetry/demo"]
+	path = resources/opentelemetry/demo
+	url = https://github.com/open-telemetry/opentelemetry-demo.git
+[submodule "resources/charts/kedacore"]
+	path = resources/charts/kedacore
+	url = https://github.com/kedacore/charts.git
