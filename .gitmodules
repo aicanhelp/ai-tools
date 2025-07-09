@@ -97,3 +97,33 @@
 [submodule "resources/charts/kedacore"]
 	path = resources/charts/kedacore
 	url = https://github.com/kedacore/charts.git
+[submodule "resources/charts/grafana"]
+	path = resources/charts/grafana
+	url = https://github.com/grafana/helm-charts.git
+[submodule "resources/charts/elastic"]
+	path = resources/charts/elastic
+	url = https://github.com/elastic/helm-charts.git
+[submodule "resources/charts/prometheus"]
+	path = resources/charts/prometheus
+	url = https://github.com/prometheus-community/helm-charts.git
+[submodule "resources/charts/vault-helm"]
+	path = resources/charts/vault-helm
+	url = https://github.com/hashicorp/vault-helm.git
+[submodule "resources/proxy/openclash"]
+	path = resources/proxy/openclash
+	url = https://github.com/vernesong/OpenClash.git
+[submodule "resources/openwrt"]
+	path = resources/openwrt
+	url = https://github.com/openwrt/openwrt.git
+[submodule "resources/freeclash1"]
+	path = resources/freeclash1
+	url = https://github.com/liandu2024/clash.git
+[submodule "resources/clash-rules"]
+	path = resources/clash-rules
+	url = https://github.com/Loyalsoldier/clash-rules.git
+[submodule "resources/clashfree"]
+	path = resources/clashfree
+	url = https://github.com/aiboboxx/clashfree.git
+[submodule "resources/charts/keda"]
+	path = resources/charts/keda
+	url = https://github.com/kedacore/charts.git

@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-git submodule add $1 resources/$2
+git submodule add --depth 2 $1 resources/$2
