@@ -94,3 +94,6 @@
 [submodule "docusaurus-projects/dyte-io-docs"]
 	path = docusaurus-projects/dyte-io-docs
 	url = https://github.com/dyte-io/docs.git
+[submodule "docusaurus-projects/ionic-docs"]
+	path = docusaurus-projects/ionic-docs
+	url = https://github.com/ionic-team/ionic-docs.git
