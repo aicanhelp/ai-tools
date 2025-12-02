@@ -100,3 +100,9 @@
 [submodule "test-tools-projects/jest"]
 	path = test-tools-projects/jest
 	url = https://github.com/jestjs/jest.git
+[submodule "install-tools-projects/k3s-ansible"]
+	path = install-tools-projects/k3s-ansible
+	url = https://github.com/timothystewart6/k3s-ansible.git
+[submodule "install-tools-projects/k3s-ansible-2"]
+	path = install-tools-projects/k3s-ansible-2
+	url = https://github.com/timothystewart6/k3s-ansible.git
