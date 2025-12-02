@@ -34,11 +34,10 @@ function do_add() {
 
    name=`echo ${repo} | sed 's/.*\///' | sed 's/\..*//'`
    project_dir=${type}-projects
-   ! test -z $sub && project_dir=${project_dir}/${sub}
+   ! test -z $ && name=${sub}
 
-   MOD_NAME=${project_dir}/${name}
    mkdir -p ${project_dir}
-   git -c protocol.version=2 submodule add --depth 2 ${repo} ${type}-projects/$name
+   git -c protocol.version=2 submodule add --depth 2 ${repo} ${project_dir}/$name
 }
 
 function do_list() {
