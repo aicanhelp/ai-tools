@@ -136,3 +136,6 @@
 [submodule "docusaurus-projects/redocusaurus"]
 	path = docusaurus-projects/redocusaurus
 	url = https://github.com/rohit-gohri/redocusaurus.git
+[submodule "docusaurus-projects/saleor-docs"]
+	path = docusaurus-projects/saleor-docs
+	url = https://github.com/saleor/saleor-docs.git
