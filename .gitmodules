@@ -91,3 +91,6 @@
 [submodule "docusaurus-projects/docusaurus-openapi-docs"]
 	path = docusaurus-projects/docusaurus-openapi-docs
 	url = https://github.com/PaloAltoNetworks/docusaurus-openapi-docs.git
+[submodule "docusaurus-projects/dyte-io-docs"]
+	path = docusaurus-projects/dyte-io-docs
+	url = https://github.com/dyte-io/docs.git
