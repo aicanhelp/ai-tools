@@ -82,3 +82,6 @@
 [submodule "charts-projects/prometheus"]
 	path = charts-projects/prometheus
 	url = https://github.com/prometheus-community/helm-charts.git
+[submodule "charts-projects/vault"]
+	path = charts-projects/vault
+	url = https://github.com/hashicorp/vault-helm.git
