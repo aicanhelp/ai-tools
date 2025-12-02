@@ -61,3 +61,6 @@
 [submodule "docs-tools-projects/AFFiNE"]
 	path = docs-tools-projects/AFFiNE
 	url = https://github.com/toeverything/AFFiNE.git
+[submodule "docusaurus-projects/appcircle-docusaurus"]
+	path = docusaurus-projects/appcircle-docusaurus
+	url = https://github.com/appcircleio/appcircle-docusaurus.git
