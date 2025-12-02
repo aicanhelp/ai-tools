@@ -89,7 +89,7 @@ function do_mv(){
 
   local name=`echo ${src} | sed 's/.*\///'`
   project_dir=${type}-projects
-  ! test -z $sub && project_dir=${project_dir}/${sub}
+  ! test -z $sub && name=${sub}
 
   MOD_NAME=${project_dir}/${name}
   mkdir -p ${project_dir}

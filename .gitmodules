@@ -2,13 +2,13 @@
 	path = resources/latex-handcalcs
 	url = https://github.com/connorferster/handcalcs.git
 [submodule "resources/intellij-bazel"]
-	path = resources/intellij-bazel
+	path = make-tools-projects/intellij-bazel
 	url = https://github.com/bazelbuild/intellij.git
 [submodule "resources/docker-jupyterhub"]
 	path = resources/docker-jupyterhub
 	url = https://github.com/RattyDAVE/docker-jupyterhub.git
 [submodule "resources/bazel/bazel"]
-	path = resources/bazel/bazel
+	path = make-tools-projects/bazel
 	url = https://github.com/bazelbuild/bazel.git
 [submodule "resources/justWrite"]
 	path = resources/justWrite
@@ -97,3 +97,6 @@
 [submodule "docusaurus-projects/ionic-docs"]
 	path = docusaurus-projects/ionic-docs
 	url = https://github.com/ionic-team/ionic-docs.git
+[submodule "test-tools-projects/jest"]
+	path = test-tools-projects/jest
+	url = https://github.com/jestjs/jest.git
