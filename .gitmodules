@@ -112,3 +112,6 @@
 [submodule "k8s-tools-projects/kubez-ansible"]
 	path = k8s-tools-projects/kubez-ansible
 	url = https://github.com/pixiu-io/kubez-ansible.git
+[submodule "docusaurus-projects/lsfusion-docs"]
+	path = docusaurus-projects/lsfusion-docs
+	url = https://github.com/lsfusion/docusaurus.git
