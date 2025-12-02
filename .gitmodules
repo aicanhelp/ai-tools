@@ -115,3 +115,9 @@
 [submodule "docusaurus-projects/lsfusion-docs"]
 	path = docusaurus-projects/lsfusion-docs
 	url = https://github.com/lsfusion/docusaurus.git
+[submodule "docs-tools-projects/mkdocs-render-swagger-plugin"]
+	path = docs-tools-projects/mkdocs-render-swagger-plugin
+	url = https://github.com/bharel/mkdocs-render-swagger-plugin.git
+[submodule "charts-projects/openfga"]
+	path = charts-projects/openfga
+	url = https://github.com/openfga/helm-charts.git
