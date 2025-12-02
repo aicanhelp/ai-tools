@@ -130,3 +130,9 @@
 [submodule "test-tools-projects/k6"]
 	path = test-tools-projects/k6
 	url = https://github.com/grafana/k6.git
+[submodule "test-tools-projects/prometheus-benchmark"]
+	path = test-tools-projects/prometheus-benchmark
+	url = https://github.com/VictoriaMetrics/prometheus-benchmark.git
+[submodule "docusaurus-projects/redocusaurus"]
+	path = docusaurus-projects/redocusaurus
+	url = https://github.com/rohit-gohri/redocusaurus.git
