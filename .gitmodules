@@ -106,3 +106,9 @@
 [submodule "install-tools-projects/k3s-ansible-2"]
 	path = install-tools-projects/k3s-ansible-2
 	url = https://github.com/timothystewart6/k3s-ansible.git
+[submodule "k8s-tools-projects/kubespray-offline"]
+	path = k8s-tools-projects/kubespray-offline
+	url = https://github.com/kubespray-offline/kubespray-offline.git
+[submodule "k8s-tools-projects/kubez-ansible"]
+	path = k8s-tools-projects/kubez-ansible
+	url = https://github.com/pixiu-io/kubez-ansible.git
