@@ -127,3 +127,6 @@
 [submodule "docusaurus-projects/ory-docs"]
 	path = docusaurus-projects/ory-docs
 	url = https://github.com/ory/docs.git
+[submodule "test-tools-projects/k6"]
+	path = test-tools-projects/k6
+	url = https://github.com/grafana/k6.git
