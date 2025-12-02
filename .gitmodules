@@ -79,3 +79,6 @@
 [submodule "charts-projects/keda"]
 	path = charts-projects/keda
 	url = https://github.com/kedacore/charts.git
+[submodule "charts-projects/prometheus"]
+	path = charts-projects/prometheus
+	url = https://github.com/prometheus-community/helm-charts.git
