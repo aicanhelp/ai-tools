@@ -58,3 +58,6 @@
 [submodule "resources/mkdocs/mkdocs-monorepo-plugin"]
 	path = resources/mkdocs/mkdocs-monorepo-plugin
 	url = https://github.com/backstage/mkdocs-monorepo-plugin.git
+[submodule "docs-tools-projects/AFFiNE"]
+	path = docs-tools-projects/AFFiNE
+	url = https://github.com/toeverything/AFFiNE.git
