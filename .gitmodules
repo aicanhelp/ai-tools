@@ -67,3 +67,6 @@
 [submodule "charts-projects/apisix-helm-chart"]
 	path = charts-projects/apisix-helm-chart
 	url = https://github.com/apache/apisix-helm-chart.git
+[submodule "charts-projects/elastic-charts"]
+	path = charts-projects/elastic-charts
+	url = https://github.com/elastic/elastic-charts.git
