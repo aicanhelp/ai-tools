@@ -124,3 +124,6 @@
 [submodule "embedded-tools-projects/openwrt"]
 	path = embedded-tools-projects/openwrt
 	url = https://github.com/openwrt/openwrt.git
+[submodule "docusaurus-projects/ory-docs"]
+	path = docusaurus-projects/ory-docs
+	url = https://github.com/ory/docs.git
