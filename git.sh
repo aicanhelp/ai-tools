@@ -34,7 +34,7 @@ function do_add() {
 
    name=`echo ${repo} | sed 's/.*\///' | sed 's/\..*//'`
    project_dir=${type}-projects
-   ! test -z $ && name=${sub}
+   ! test -z $sub && name=${sub}
 
    mkdir -p ${project_dir}
    git -c protocol.version=2 submodule add --depth 2 ${repo} ${project_dir}/$name

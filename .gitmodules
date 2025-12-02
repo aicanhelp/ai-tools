@@ -85,3 +85,6 @@
 [submodule "charts-projects/vault"]
 	path = charts-projects/vault
 	url = https://github.com/hashicorp/vault-helm.git
+[submodule "docker-tools-projects/slim"]
+	path = docker-tools-projects/slim
+	url = https://github.com/slimtoolkit/slim.git
