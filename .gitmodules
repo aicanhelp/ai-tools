@@ -88,3 +88,6 @@
 [submodule "docker-tools-projects/slim"]
 	path = docker-tools-projects/slim
 	url = https://github.com/slimtoolkit/slim.git
+[submodule "docusaurus-projects/docusaurus-openapi-docs"]
+	path = docusaurus-projects/docusaurus-openapi-docs
+	url = https://github.com/PaloAltoNetworks/docusaurus-openapi-docs.git
