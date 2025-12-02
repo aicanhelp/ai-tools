@@ -41,22 +41,22 @@
 	path = resources/onlyoffice/documentserver
 	url = https://github.com/ONLYOFFICE/Docker-DocumentServer.git
 [submodule "resources/mkdocs/mkdocs"]
-	path = resources/mkdocs/mkdocs
+	path = mkdocs-projects/mkdocs
 	url = https://github.com/mkdocs/mkdocs.git
 [submodule "resources/mkdocs/mkdocs-plugins"]
-	path = resources/mkdocs/mkdocs-plugins
+	path = mkdocs-projects/mkdocs-plugins
 	url = https://github.com/Neoteroi/mkdocs-plugins.git
 [submodule "resources/mkdocs/mkdocs-material"]
-	path = resources/mkdocs/mkdocs-material
+	path = mkdocs-projects/mkdocs-material
 	url = https://github.com/squidfunk/mkdocs-material.git
 [submodule "resources/mkdocs/mkdocs-strings"]
-	path = resources/mkdocs/mkdocs-strings
+	path = mkdocs-projects/mkdocs-strings
 	url = https://github.com/mkdocstrings/mkdocstrings.git
 [submodule "resources/mkdocs/mkdocs-include-plugin"]
-	path = resources/mkdocs/mkdocs-include-plugin
+	path = mkdocs-projects/mkdocs-include-plugin
 	url = https://github.com/mondeja/mkdocs-include-markdown-plugin.git
 [submodule "resources/mkdocs/mkdocs-monorepo-plugin"]
-	path = resources/mkdocs/mkdocs-monorepo-plugin
+	path = mkdocs-projects/mkdocs-monorepo-plugin
 	url = https://github.com/backstage/mkdocs-monorepo-plugin.git
 [submodule "docs-tools-projects/AFFiNE"]
 	path = docs-tools-projects/AFFiNE
@@ -116,7 +116,7 @@
 	path = docusaurus-projects/lsfusion-docs
 	url = https://github.com/lsfusion/docusaurus.git
 [submodule "docs-tools-projects/mkdocs-render-swagger-plugin"]
-	path = docs-tools-projects/mkdocs-render-swagger-plugin
+	path = mkdocs-projects/mkdocs-render-swagger-plugin
 	url = https://github.com/bharel/mkdocs-render-swagger-plugin.git
 [submodule "charts-projects/openfga"]
 	path = charts-projects/openfga
