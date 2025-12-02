@@ -73,3 +73,6 @@
 [submodule "charts-projects/helm-charts"]
 	path = charts-projects/helm-charts
 	url = https://github.com/grafana/helm-charts.git
+[submodule "charts-projects/grafana"]
+	path = charts-projects/grafana
+	url = https://github.com/grafana/helm-charts.git
