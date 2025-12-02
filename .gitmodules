@@ -76,3 +76,6 @@
 [submodule "charts-projects/grafana"]
 	path = charts-projects/grafana
 	url = https://github.com/grafana/helm-charts.git
+[submodule "charts-projects/keda"]
+	path = charts-projects/keda
+	url = https://github.com/kedacore/charts.git
